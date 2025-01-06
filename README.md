@@ -15,7 +15,7 @@ Este é um gerador de senhas simples e seguro, desenvolvido com HTML, CSS e Java
 - **CSS**: Estilização do layout e design responsivo.
 - **JavaScript**: Lógica para gerar senhas, verificar força e copiar para a área de transferência.
 
-## Como Usar
+## Como Rodar o Projeto
 
 1. Clone este repositório ou baixe os arquivos.
 2. Abra o arquivo `index.html` em seu navegador.
