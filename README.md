@@ -5,9 +5,9 @@ Este é um gerador de senhas simples e seguro, desenvolvido com HTML, CSS e Java
 ## Funcionalidades
 
 - **Tamanho Personalizado**: O usuário pode definir o tamanho da senha entre 4 e 20 caracteres.
-- **Opções Personalizáveis**: O usuário pode escolher incluir números, letras maiúsculas e símbolos na senha gerada.
+- **Opções Personalizáveis**: O usuário pode escolher incluir números, letras maiúsculas ou símbolos na senha gerada.
 - **Feedback de Força**: O projeto avalia e exibe a força da senha gerada, como "Muito Forte", "Forte", "Moderada" ou "Fraca".
-- **Copiar Senha**: O usuário pode copiar facilmente a senha gerada com um clique em um ícone.
+- **Copiar Senha**: O usuário pode copiar facilmente a senha gerada com um clique.
 
 ## Tecnologias Usadas
 
@@ -21,12 +21,12 @@ Este é um gerador de senhas simples e seguro, desenvolvido com HTML, CSS e Java
 2. Abra o arquivo `index.html` em seu navegador.
 3. Defina o tamanho da senha e selecione suas preferências de caracteres.
 4. Clique no botão "Gerar Senha" para gerar uma senha segura.
-5. Você pode copiar a senha gerada clicando no ícone de copiar.
+5. Copie a senha gerada clicando no ícone ao lado da mesma.
 
 ## Exemplo de Uso
 
 - Defina o número de caracteres desejado.
-- Selecione as opções para incluir números, letras maiúsculas e símbolos.
+- Selecione as opções para incluir números, letras maiúsculas ou símbolos.
 - Clique em "Gerar Senha" para ver a senha gerada e sua força.
 
 ## Contribuições
